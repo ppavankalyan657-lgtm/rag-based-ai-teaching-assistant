@@ -1,0 +1,33 @@
+# RAG-Based AI Teaching Assistant
+
+## 1. Project Overview
+
+The RAG-Based AI Teaching Assistant is a Python-based project that helps students find answers to questions from educational study materials. It retrieves relevant information from the provided text and displays the most suitable answer.
+
+## 2. Objectives
+
+- To help students understand educational topics.
+- To retrieve relevant information from study materials.
+- To demonstrate the basic concepts of Retrieval-Augmented Generation (RAG).
+- To develop a simple interactive application using Python.
+
+## 3. Technologies Used
+
+- **Programming Language:** Python
+- **User Interface:** Streamlit
+- **Text Processing:** TF-IDF
+- **Similarity Measurement:** Cosine Similarity
+- **Machine Learning Library:** Scikit-learn
+
+## 4. Features
+
+- Enter educational notes.
+- Ask questions based on the notes.
+- Find the most relevant text.
+- Display the retrieved information.
+- Show a similarity score.
+- Provide a simple and user-friendly interface.
+
+## 5. How the Project Works
+
+1. The user enters educational
