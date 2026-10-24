@@ -1,0 +1,5 @@
+rag-ai-teaching-assistant/
+│
+├── app.py
+├── requirements.txt
+  README.md
